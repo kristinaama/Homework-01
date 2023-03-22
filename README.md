@@ -13,7 +13,11 @@ https://kristinaama.github.io/Homework-01/
 
 ## Usage
 
-These files are intended for the usage of Horiseon clients so that they may learn more about the company.
+These files are intended for Horiseon clients to use so that they may learn more about the company.
+
+The following is what users will first see when they access the page:
+
+Homework-01/assets/images/Horiseon Screenshot.png
 
 ## Usage
 
