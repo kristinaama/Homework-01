@@ -9,6 +9,7 @@ This project is meant to provide refactored code for the website of a client, Ho
 
 The HTML code and CSS code can be downloaded via the Homework-01 folder on Github. It can also be viewed by visiting the following URL:
 
+https://kristinaama.github.io/Homework-01/
 
 ## Usage
 
